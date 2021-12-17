@@ -1,0 +1,30 @@
+{
+    "license": "Copyright 2021. All rights reserved.",
+    "statusCode": 200,
+    "content": [
+		{
+			"year": "1973",
+			"sport": "AFL",
+			"icon": "afl.png",
+			"fact": "Elmore Smith blocks 1723 shots for the LA Lakers during its 111-98 win against the Portland Trail Blazers. "
+		}, 
+		{
+			"year": "1995",
+			"sport": "Cricket",
+			"icon": "cricket.png",
+			"fact": "11th Rugby League World Cup: Australia beats England 16-8."
+		},
+		{
+			"year": "1973",
+			"sport": "Cycling",
+			"icon": "cycling.png",
+			"fact": "Elmore Smith blocks 17 shots for the LA Lakers during its 111-98 win against the Portland Trail Blazers. "
+		}, 
+		{
+			"year": "1973",
+			"sport": "Boxing",
+			"icon": "boxing.png",
+			"fact": "11th Rugby League World Cup: Australia beats England 16-8."
+		}
+	]
+}
